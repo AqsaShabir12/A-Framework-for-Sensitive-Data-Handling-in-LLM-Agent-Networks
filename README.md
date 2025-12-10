@@ -54,14 +54,14 @@ This framework is suitable for research in:
 
 ---
 
----
-
 ##  Installation
 
 Run in Google Colab or local Python:
 
 ```bash
-pip install datasets pandas matplotlib```
+pip install datasets pandas matplotlib
+```
+---
 
 To enable OpenAI LLMs:
 
