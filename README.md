@@ -1,4 +1,4 @@
-# A-Framework-for-Sensitive-Data-Handling-in-LLM-Agent-Networks
+# PriMAS-LLM: a Privacy-Preserving Multi-Agent System for Large Language Models!
 
 It is a framework designed to evaluate and mitigate **privacy leakage** in **LLM-based multi-agent systems**. It provides a controlled environment where multiple agents exchange natural language messages while a privacy filter enforces selective masking of sensitive information.
 
